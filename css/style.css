@@ -206,7 +206,7 @@ float: right;
 
 .features-catalogue{
     width: 220px;
-    float: left;
+    font-size: 14px;
     margin-right: 20px;
     display: inline-block;
     vertical-align: top;
@@ -222,6 +222,7 @@ float: right;
 
 .output-date{
     margin-bottom: 40px;
+    font-size:0;
 }
 
 
